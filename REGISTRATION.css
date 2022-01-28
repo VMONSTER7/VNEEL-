@@ -1,0 +1,86 @@
+
+#head{
+border-radius: 7px;
+background-color:#1e3242;
+height:100px;
+width:100%;
+}
+#back{
+background-color:#0e385e;
+}
+.input{
+align:center;
+}
+#form{
+color:rgb(250, 54, 54);
+font-family: Verdana;
+width:1000px;
+border-radius:23px;
+background-color:white;
+color: rgb(11, 33, 105);
+font-size: large;
+}
+div{
+margin:10px 0px 10px 0px;
+}
+input,select{
+margin:10px 0px 10px 0px;
+padding: 8px;
+width:200px;
+height:35px;
+border: none;
+background-color:rgb(255, 240, 172);
+border-radius: 10px;
+font-size: small;
+text-transform:uppercase;
+}
+button{
+background-color:#1e3242;
+border:none;
+color: rgb(255, 72, 0);
+background-size:100%;
+height:50px;
+width:100px;
+font-size:20px;
+color: rgb(60, 106, 231);
+margin:20px 0px 10px 0px;
+}
+button:hover{
+background-color: rgb(24, 29, 34);
+color: rgb(89, 224, 241);
+height:50px;
+width:100px;
+border-radius: 23px;
+font-size:20px;
+background-size:100%;
+border-style:bold;
+
+}
+#home{
+    background-color: rgb(26, 33, 39);
+    border-radius: 23px;
+    padding:15px ;
+    width:100px;
+    text-align:center;
+    border: none;
+    color: rgb(60, 106, 231);
+    font-size:20px;
+}
+#home:hover{
+
+    border-radius: 23px;
+    padding:10px ;
+    width:100px;
+    text-align:center;
+    border: none;
+    padding:15px ;
+    background-color: rgb(24, 29, 34);
+    color: #34e8eb;
+    font-size: 20px;
+    border-radius: 23px;
+}
+.imgclass{
+    display: flex;
+    width:1000px;
+    align-items: center;
+}
